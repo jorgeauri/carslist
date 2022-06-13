@@ -1,0 +1,11 @@
+ID;modelo;marca_ID;empresa;ano;cor;placa;diaria;mensal;desconto;moeda_code
+101;Civic;1;42;2022;Branco Taffeta;QRN8A31;80;2280;"";R$
+102;City;1;42;2021;Preto Cristal;QRB7A35;70;1995;"";R$
+201;Corolla;2;42;2022;Prata Supernova;QAN5R21;80;2280;"";R$
+301;Gol;3;42;2020;Vermelho Flash;QUN1A31;50;1350;"";R$
+302;Amarok;3;42;2022;Azul Atlantic;QAS8A01;80;2280;"";R$
+401;Uno;4;42;2021;Verde Amazon;QNR9A99;50;1425;"";R$
+402;Fiorino;4;42;2019;Branco Banchisa;QBC6T31;50;1350;"";R$
+501;Onix;5;42;2021;Prata Switchblade;QYN6A31;50;1425;"";R$
+502;Cruze;5;42;2021;Azul Eclipse;QTY1D23;80;2280;"";R$
+601;EcoSport;6;42;2019;Marrom Trancoso;QTK3F00;65;1755;"";R$

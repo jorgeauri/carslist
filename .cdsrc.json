@@ -1,0 +1,18 @@
+{
+    "[development]": {
+        "auth": {
+            "passport": {
+                "strategy": "mock",
+                "users": {
+                    "jorge.auri@outlook.com.br": {
+                        "password": "123",
+                        "ID": "jorge.auri@outlook.com.br",
+                        "roles": [
+                            "admin"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
